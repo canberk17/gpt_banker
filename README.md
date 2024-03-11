@@ -1,4 +1,4 @@
-# README.md for app.py
+# Leveraging PDF  Documents in a Langchain Pipeline with OPEN AI API
 
 ## Overview
 This application integrates various components from the [langchain](file:///Users/ck/fugazi_tech/rag_projects/gpt_banker/app.py#3%2C6-3%2C6) library to create a Streamlit web app that allows users to interact with a GPT model for processing banking annual reports. It uses OpenAI's GPT model for generating responses to user prompts and leverages vector storage for document similarity search.
