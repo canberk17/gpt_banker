@@ -1,3 +1,8 @@
-langchain==0.1.11
-python-dotenv==1.0.1
-streamlit==1.32.0
+langchain
+python-dotenv
+streamlit
+openai
+pypdf 
+cryptography
+chromadb
+tiktoken
